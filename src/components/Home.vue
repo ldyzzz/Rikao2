@@ -1,6 +1,7 @@
 <template>
   <div class="hellow">
     这是一个home页面
+    嘿嘿
   </div>
 </template>
 
